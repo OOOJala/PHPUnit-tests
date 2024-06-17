@@ -6,6 +6,7 @@ Here are some PHPUnit test examples I have made
 4. You can run it from your CLI : ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
 5. You cen also run your code from PHPStorm:
    Settings -> PHP -> Test Frameworks
-   ![image](https://github.com/OOOJala/PHPUnit-tests/assets/164356329/52575995-d75a-4029-8ff7-faa51f6d1d73)
+   ![image](https://github.com/OOOJala/PHPUnit-tests/assets/164356329/a66f77c1-feac-409f-812d-8152621bf730)
 
-6. Select testfile from the right bar of PHPStorm -> RUN your code
+
+7. Select testfile from the right bar of PHPStorm -> RUN your code
