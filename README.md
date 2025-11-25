@@ -1,6 +1,6 @@
 Here are some PHPUnit test examples I have made
 
-1. Install PHPUnit and PHPStorm to yöu computer
+1. Install PHPUnit and PHPStorm to your computer
 2. Create tests-folder to your project
 3. Program you testcode
 4. You can run it from your CLI : ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests
